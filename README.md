@@ -79,5 +79,13 @@ This datasheet outlines the technical specifications and use cases of our RFID P
 📎 [Download Datasheet PDF](./NXP-ICODE-SLIX-RFID-Playing-Cards-datasheet-AZP-SLX-PVC-8863.pdf)  
 🌐 Visit our product page: https://rfidtag.com/product/nxp-icode-slix-rfid-playing-cards/
 
+# NXP UCODE® 9 Textile RFID Laundry Tag – Datasheet
+
+This datasheet details the specifications of our textile RFID laundry tag built on the NXP UCODE® 9 chip. It offers over 200-cycle wash durability, 100% memory write testing, and superior tracking for garment and linen management.
+
+📎 [Download PDF Datasheet](./NXP-UCODE-9-Textile-RFID-Laundry-Tag-datasheet-AZ-U9-LTW-7515.pdf)  
+🌐 Visit Product Page: https://rfidtag.com/product/nxp-ucode-9-textile-rfid-laundry-tag-5/
+
+
 
 
