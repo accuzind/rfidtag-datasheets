@@ -66,5 +66,11 @@ Designed for applications such as warehouse automation, file tracking, library s
 
 🔗 [View full product details on RFIDTAG.com](https://rfidtag.com/product/integrated-uhf-rfid-reader/)
 
+# MIFARE® Ultralight® EV1 RFID Playing Cards – Datasheet AZP-UTL-PVC-8863
+
+This datasheet outlines the features and technical specifications of our RFID Playing Cards embedded with MIFARE® Ultralight® EV1 chips. These cards are manufactured using durable PVC and are designed for enhanced security and functionality in gaming, entertainment, and interactive systems.
+
+🔗 [View product on RFIDTAG.com](https://rfidtag.com/product/mifare-ultralight-ev1-pvc-rfid-playing-cards/)
+
 
 
