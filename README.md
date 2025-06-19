@@ -58,4 +58,13 @@ https://www.nxp.com/products/rfid-nfc/nfc-hf/ntag/ntag-424-dna-high-security-nfc
 
 This repository is maintained by [RFIDTAG.com](https://rfidtag.com), a global provider of high-performance RFID & NFC solutions.
 
+# Integrated UHF RFID Reader – Datasheet AZ-UR1A-RT
+
+This datasheet details the technical specifications of the Integrated UHF RFID Reader powered by the Impinj® E710 chip. The device combines a high-performance built-in antenna and supports RS-232, RJ45, and GPIO interfaces for wide industrial integration.
+
+Designed for applications such as warehouse automation, file tracking, library systems, and production line management, this reader offers reliable performance in fixed UHF RFID environments.
+
+🔗 [View full product details on RFIDTAG.com](https://rfidtag.com/product/integrated-uhf-rfid-reader/)
+
+
 
