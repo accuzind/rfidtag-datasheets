@@ -72,5 +72,12 @@ This datasheet outlines the features and technical specifications of our RFID Pl
 
 🔗 [View product on RFIDTAG.com](https://rfidtag.com/product/mifare-ultralight-ev1-pvc-rfid-playing-cards/)
 
+# NXP ICODE® SLIX RFID Playing Cards – Datasheet
+
+This datasheet outlines the technical specifications and use cases of our RFID Playing Cards embedded with NXP ICODE® SLIX chips. These cards are engineered for secure, high-frequency tracking in premium gaming and entertainment environments.
+
+📎 [Download Datasheet PDF](./NXP-ICODE-SLIX-RFID-Playing-Cards-datasheet-AZP-SLX-PVC-8863.pdf)  
+🌐 Visit our product page: https://rfidtag.com/product/nxp-icode-slix-rfid-playing-cards/
+
 
 
