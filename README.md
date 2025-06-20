@@ -94,5 +94,12 @@ This datasheet provides the specifications for our NFC review sticker powered by
 
 Learn more at [RFIDTAG.com](https://rfidtag.com/product/ntag-213-nfc-review-card-sticker/)
 
+# ICODE® SLIX RFID Silicone Wristband Datasheet
+
+This PDF datasheet outlines the technical specifications of the RFID silicone wristband embedded with the ICODE® SLIX chip from NXP. Ideal for access control, event management, and gym attendance tracking, this waterproof and shockproof wristband offers a 1.5m read range with robust data protection.
+
+[**Download PDF**](./ICODE-SLI-X-RFID-Silicone-Wristband-datasheet-AZ-SLIX-SW.pdf)
+
+Learn more at [RFIDTAG.com](https://rfidtag.com/product/i-code-sli-x-rfid-silicone-wristband/)
 
 
