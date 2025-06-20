@@ -158,4 +158,16 @@ For more detailed information, product specifications, and purchasing options, p
 
 **Download the Datasheet (PDF):**
 [High-Power-HF-RFID-Reader-datasheet-RD52.pdf](link_to_your_pdf_document_on_github)
+# ISO15693 RFID Antenna Smart Tray HF – Datasheet DA38
+
+This datasheet details the specifications and features of our ISO15693 RFID antenna, specifically engineered for quick-service restaurant checkouts. Built with waterproof and robust Smart Tray housing, it ensures accurate and rapid RFID tag detection, greatly enhancing operational speed and efficiency.
+
+**Key Features:**
+- ISO15693 standard compliance
+- Robust, waterproof Smart Tray design
+- Rapid and accurate HF RFID reading performance
+
+📥 [Download PDF Datasheet](./Smart-Tray-RFID-Antenna-datasheet-DA38.pdf)
+
+🔗 [View Product Online](https://rfidtag.com/product/smart-tray-hf-rfid-antenna-iso-15693/)
 
