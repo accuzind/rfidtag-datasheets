@@ -132,3 +132,30 @@ This device is ideal for solutions requiring multi-application support, includin
 * Event Ticketing
 
 The attached PDF file provides detailed technical specifications.
+
+# High-Power-HF-RFID-Reader-datasheet-RD52
+
+This repository contains the datasheet for the **High-Power HF RFID Reader (Model RD52)**.
+
+**Product Overview:**
+The High-Power HF RFID Reader is an advanced device designed for high-performance RFID integration projects. It features exceptional reading and writing sensitivity, combined with rapid anti-collision processing algorithms, making it ideal for applications requiring the reading of large quantities of densely packed RFID tags or long-distance reading.
+
+**Key Features:**
+* High sensitivity for reading and writing
+* Rapid anti-collision processing
+* Supports ISO/IEC 15693 protocol
+* Multiple communication interfaces: Ethernet, USB, RS232, RS485
+* Stable performance for demanding RFID integration
+
+**Applications include:**
+* Jewelry Management
+* Chip Management
+* Production Automation
+* Access Control
+
+For more detailed information, product specifications, and purchasing options, please visit the official product page:
+[High-Power HF RFID Reader Official Product Page](https://rfidtag.com/product/fixed-rfid-readers-isoiec15693/)
+
+**Download the Datasheet (PDF):**
+[High-Power-HF-RFID-Reader-datasheet-RD52.pdf](link_to_your_pdf_document_on_github)
+
