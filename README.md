@@ -86,6 +86,13 @@ This datasheet details the specifications of our textile RFID laundry tag built 
 📎 [Download PDF Datasheet](./NXP-UCODE-9-Textile-RFID-Laundry-Tag-datasheet-AZ-U9-LTW-7515.pdf)  
 🌐 Visit Product Page: https://rfidtag.com/product/nxp-ucode-9-textile-rfid-laundry-tag-5/
 
+# NFC Review Sticker Datasheet – NTAG® 213
+
+This datasheet provides the specifications for our NFC review sticker powered by NTAG® 213. Designed for tap-based customer interaction, this acrylic sticker offers durability, waterproof performance, and stable data transmission. Ideal for salons, cafes, and fitness spaces.
+
+**Download**: [Click here to download the datasheet](INSERT_DOWNLOAD_LINK)
+
+Learn more at [RFIDTAG.com](https://rfidtag.com/product/ntag-213-nfc-review-card-sticker/)
 
 
 
