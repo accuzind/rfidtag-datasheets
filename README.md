@@ -102,4 +102,33 @@ This PDF datasheet outlines the technical specifications of the RFID silicone wr
 
 Learn more at [RFIDTAG.com](https://rfidtag.com/product/i-code-sli-x-rfid-silicone-wristband/)
 
+# NXP MIFARE Classic® EV1 4K RFID Silicone Wristband Datasheet (Model: AZ-S70-SW)
 
+This repository contains the official datasheet for the AZ-S70-SW, a robust RFID silicone wristband featuring the NXP MIFARE Classic® EV1 4K chip.
+
+## Product Overview
+
+The AZ-S70-SW is a watch-style, high-performance RFID wristband designed for durability and a wide range of applications. It integrates the powerful NXP MIFARE Classic® EV1 IC with 4K-byte EEPROM memory, operating at a frequency of 13.56 MHz and compliant with ISO/IEC 14443 Type A standards.
+
+**For full product specifications, customization options, and to request a quote, please visit the official product page:**
+
+[**View the MIFARE Classic® EV1 4K Silicone Wristband on RFIDTAG.com**](https://rfidtag.com/product/nxp-mifare-classic-ev1-4k-rfid-silicone-wristband-s70/)
+
+## Key Features
+
+* **Chip:** NXP MIFARE Classic® EV1 4K (S70)
+* **Memory:** 4096 bytes EEPROM
+* **Material:** High-quality, flexible silicone
+* **Durability:** Waterproof, shockproof, and high-temperature resistant
+* **Form Factor:** Adjustable watch-style strap for comfortable, secure wear
+
+## Applications
+
+This device is ideal for solutions requiring multi-application support, including but not limited to:
+* Public Transportation
+* Access Management & Control
+* Cashless Payments & E-purses
+* Loyalty & Membership Programs
+* Event Ticketing
+
+The attached PDF file provides detailed technical specifications.
